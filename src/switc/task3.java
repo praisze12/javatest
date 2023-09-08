@@ -26,7 +26,7 @@ public class task3 {
                 System.out.println(number1 * number2);
                 break;
             default:
-                System.out.println("Invalid entry, enter a valid entry");
+                System.out.println("Invalid entry, enter a valid entr");
         }
     }
 }
